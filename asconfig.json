@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"output": "bin-debug/ggfv_replace_snack.swf",
+		"accessible": true,
+		"source-path": [
+			"src",
+			"/Users/adamashby/Documents/Flash Extras/classes AS3",
+			"/Users/adamashby/Documents/Flash Extras/Starling_v1-3/starling/src"
+		],
+		"library-path": [
+			"../Users/adamashby/Documents/Flash Extras/Nape Physics Engine/release_nape.swc"
+		]
+	},
+	"files": [
+		"src/ggfv_replace_snack.as"
+	],
+	"copySourcePathAssets": true,
+	"additionalOptions": "-locale en_US"
+}

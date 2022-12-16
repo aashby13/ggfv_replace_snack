@@ -1,0 +1,13 @@
+bin-debug
+bin-release
+out
+work
+.settings
+.idea
+.project
+.actionScriptProperties
+src/assets
+
+# System Files
+.DS_Store
+Thumbs.db
